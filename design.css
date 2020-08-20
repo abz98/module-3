@@ -1,0 +1,62 @@
+
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+span:nth-child(1) {
+	background-color: red;
+	text-align: center;
+}
+
+span:nth-child(2) {
+	background-color: blue
+}
+
+span:nth-child(3) {
+	background-color: green
+}
+
+.navbar-brand {
+	color: #dfcfbe;
+}
+
+#content a {
+	font-weight: bolder;
+	color: #dfcfbe;
+	text-align: center;
+}
+
+#navi {
+	background-color: #0e2c38;
+}
+
+.container h1 {
+	color: #043a59;
+	border: 3px groove black;
+	background-color: #dfcfbe;
+	text-align: center;
+}
+
+.row h3 {
+	color: #043a59;
+	font-weight: bold;
+	text-align: center;
+	position: relative;
+	top: 39px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+p {
+	font-family: cursive;
+	font-size: 30px;
+	background-color: #dfcfbe;
+	width: 100%;
+	padding: 20px;
+	padding-top: 50px;
+	margin: 20px;
+}
